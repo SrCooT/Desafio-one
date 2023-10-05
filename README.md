@@ -1,6 +1,6 @@
 # Desafio-one-piece
 
-# Nesse Desafio foi adicionado as seguintes Tecnologias :
+# Nesse Desafio foi utilizado as seguintes Tecnologias:
 
 - HTML
 
